@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me- chandra.singh_cs19@gla.ac.in
+- 📫 How to reach me- chandrapriy47@gmail.com
 
 <!---
 chandrapriy47/chandrapriy47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
